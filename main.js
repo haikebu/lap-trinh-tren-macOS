@@ -69,7 +69,40 @@ if (soso1==8)
 {
     document.getElementById("conso1").innerHTML = ('11111111')
 }
-
+let soso2 = 0;
+for(let i = 0; i < consotrongngaysinh.length; ++i)
+{
+    if(consotrongngaysinh[i] == 2)
+        soso2++;
+}
+if (soso2==1) 
+{
+    document.getElementById("conso2").innerHTML = ('2')
+}
+if (soso2==2) 
+{
+    document.getElementById("conso2").innerHTML = ('22')
+}
+if (soso2==3) 
+{
+    document.getElementById("conso2").innerHTML = ('222')
+}
+if (soso2==4) 
+{
+    document.getElementById("conso2").innerHTML = ('2222')
+}
+if (soso2==5) 
+{
+    document.getElementById("conso2").innerHTML = ('22222')
+}
+if (soso1==6) 
+{
+    document.getElementById("conso2").innerHTML = ('222222')
+}
+if (soso1==7) 
+{
+    document.getElementById("conso2").innerHTML = ('2222222')
+}
     //console.log(soso1);
 
     }
