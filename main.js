@@ -39,37 +39,37 @@ for(let i = 0; i < consotrongngaysinh.length; ++i)
 }
 if (soso1==1) 
 {
-    document.getElementById("conso1").innerHTML = ('1 ')
+    document.getElementById("conso1").innerHTML = ('1')
 }
-if (soso1==2) 
+else if (soso1==2) 
 {
     document.getElementById("conso1").innerHTML = ('11')
 }
-if (soso1==3) 
+else if (soso1==3) 
 {
     document.getElementById("conso1").innerHTML = ('111')
 }
-if (soso1==4) 
+else if (soso1==4) 
 {
     document.getElementById("conso1").innerHTML = ('1111')
 }
-if (soso1==5) 
+else if (soso1==5) 
 {
     document.getElementById("conso1").innerHTML = ('11111')
 }
-if (soso1==6) 
+else if (soso1==6) 
 {
     document.getElementById("conso1").innerHTML = ('111111')
 }
-if (soso1==7) 
+else if (soso1==7) 
 {
     document.getElementById("conso1").innerHTML = ('1111111')
 }
-if (soso1==8) 
+else if (soso1==8) 
 {
     document.getElementById("conso1").innerHTML = ('11111111')
 }
-let soso2 = 0;
+let soso2 = 0
 for(let i = 0; i < consotrongngaysinh.length; ++i)
 {
     if(consotrongngaysinh[i] == 2)
@@ -79,27 +79,27 @@ if (soso2==1)
 {
     document.getElementById("conso2").innerHTML = ('2')
 }
-if (soso2==2) 
+else if (soso2==2) 
 {
     document.getElementById("conso2").innerHTML = ('22')
 }
-if (soso2==3) 
+else if (soso2==3) 
 {
     document.getElementById("conso2").innerHTML = ('222')
 }
-if (soso2==4) 
+else if (soso2==4) 
 {
     document.getElementById("conso2").innerHTML = ('2222')
 }
-if (soso2==5) 
+else if (soso2==5) 
 {
     document.getElementById("conso2").innerHTML = ('22222')
 }
-if (soso2==6) 
+else if (soso2==6) 
 {
     document.getElementById("conso2").innerHTML = ('222222')
 }
-if (soso2==7) 
+else if (soso2==7) 
 {
     document.getElementById("conso2").innerHTML = ('2222222')
 }
@@ -113,23 +113,23 @@ if (soso3==1)
 {
     document.getElementById("conso3").innerHTML = ('3')
 }
-if (soso3==2) 
+else if (soso3==2) 
 {
     document.getElementById("conso3").innerHTML = ('33')
 }
-if (soso3==3) 
+else if (soso3==3) 
 {
     document.getElementById("conso3").innerHTML = ('333')
 }
-if (soso3==4) 
+else if (soso3==4) 
 {
     document.getElementById("conso3").innerHTML = ('3333')
 }
-if (soso3==5) 
+else if (soso3==5) 
 {
     document.getElementById("conso3").innerHTML = ('33333')
 }
-if (soso3==6) 
+else if (soso3==6) 
 {
     document.getElementById("conso3").innerHTML = ('333333')
 }
@@ -143,23 +143,23 @@ if (soso5==1)
 {
     document.getElementById("conso5").innerHTML = ('5')
 }
-if (soso5==2) 
+else if (soso5==2) 
 {
     document.getElementById("conso5").innerHTML = ('55')
 }
-if (soso5==3) 
+else if (soso5==3) 
 {
     document.getElementById("conso5").innerHTML = ('555')
 }
-if (soso5==4) 
+else if (soso5==4) 
 {
     document.getElementById("conso5").innerHTML = ('5555')
 }
-if (soso5==5) 
+else if (soso5==5) 
 {
     document.getElementById("conso5").innerHTML = ('55555')
 }
-if (soso5==6) 
+else if (soso5==6) 
 {
     document.getElementById("conso5").innerHTML = ('555555')
 }
@@ -173,23 +173,23 @@ if (soso6==1)
 {
     document.getElementById("conso6").innerHTML = ('6')
 }
-if (soso6==2) 
+else if (soso6==2) 
 {
     document.getElementById("conso6").innerHTML = ('66')
 }
-if (soso6==3) 
+else if (soso6==3) 
 {
     document.getElementById("conso6").innerHTML = ('666')
 }
-if (soso6==4) 
+else if (soso6==4) 
 {
     document.getElementById("conso6").innerHTML = ('6666')
 }
-if (soso6==5) 
+else if (soso6==5) 
 {
     document.getElementById("conso6").innerHTML = ('66666')
 }
-if (soso6==6) 
+else if (soso6==6) 
 {
     document.getElementById("conso6").innerHTML = ('666666')
 }
@@ -203,23 +203,23 @@ if (soso7==1)
 {
     document.getElementById("conso7").innerHTML = ('7')
 }
-if (soso7==2) 
+else if (soso7==2) 
 {
     document.getElementById("conso7").innerHTML = ('77')
 }
-if (soso7==3) 
+else if (soso7==3) 
 {
     document.getElementById("conso7").innerHTML = ('777')
 }
-if (soso7==4) 
+else if (soso7==4) 
 {
     document.getElementById("conso7").innerHTML = ('7777')
 }
-if (soso7==5) 
+else if (soso7==5) 
 {
     document.getElementById("conso7").innerHTML = ('77777')
 }
-if (soso7==6) 
+else if (soso7==6) 
 {
     document.getElementById("conso7").innerHTML = ('777777')
 }
@@ -233,23 +233,23 @@ if (soso8==1)
 {
     document.getElementById("conso8").innerHTML = ('8')
 }
-if (soso8==2) 
+else if (soso8==2) 
 {
     document.getElementById("conso8").innerHTML = ('88')
 }
-if (soso8==3) 
+else if (soso8==3) 
 {
     document.getElementById("conso8").innerHTML = ('888')
 }
-if (soso8==4) 
+else if (soso8==4) 
 {
     document.getElementById("conso8").innerHTML = ('8888')
 }
-if (soso8==5) 
+else if (soso8==5) 
 {
     document.getElementById("conso8").innerHTML = ('88888')
 }
-if (soso8==6) 
+else if (soso8==6) 
 {
     document.getElementById("conso8").innerHTML = ('888888')
 }
@@ -263,27 +263,45 @@ if (soso9==1)
 {
     document.getElementById("conso9").innerHTML = ('9')
 }
-if (soso9==2) 
+else if (soso9==2) 
 {
     document.getElementById("conso9").innerHTML = ('99')
 }
-if (soso9==3) 
+else if (soso9==3) 
 {
     document.getElementById("conso9").innerHTML = ('999')
 }
-if (soso9==4) 
+else if (soso9==4) 
 {
     document.getElementById("conso9").innerHTML = ('9999')
 }
-if (soso9==5) 
+else if (soso9==5) 
 {
     document.getElementById("conso9").innerHTML = ('99999')
 }
-if (soso9==6) 
+else if (soso9==6) 
 {
     document.getElementById("conso9").innerHTML = ('999999')
 }
-
-    //console.log(soso1);
-
-    }
+let chuso1 = ["a","j","s"]
+let mangso1 = [];
+for (let i = 0; i < ten.length; i++) {
+    let chucai1 = ten[i];
+    if ((chucai1 == "a")||(chucai1 == "j")||(chucai1 == "s")){mangso1.push("1")
+    document.getElementById("ten1").innerHTML = (mangso1)}
+}
+let chuso2 = ["b","k","t"]
+let mangso2 = [];
+for (let i = 0; i < ten.length; i++) {
+    let chucai2 = ten[i];
+    if ((chucai2 == "b")||(chucai2 == "k")||(chucai2 == "t")){mangso2.push("2")
+    document.getElementById("ten2").innerHTML = (mangso2)}  
+}
+let chuso3 = ["b","k","t"]
+let mangso3 = [];
+for (let i = 0; i < ten.length; i++) {
+    let chucai3 = ten[i];
+    if ((chucai3 == "b")||(chucai3 == "k")||(chucai3 == "t")){mangso3.push("3")
+    document.getElementById("ten3").innerHTML = (mangso3)}  
+}
+}
