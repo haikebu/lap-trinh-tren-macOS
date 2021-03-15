@@ -1,4 +1,0 @@
-else if(cscdlink==3)
-        {
-            document.getElementById("consochudao").innerHTML = ("3").link ("https://thansohoc-haikebu.blogspot.com/2021/01/con-so-chu-ao-so-3.html")
-        }

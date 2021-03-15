@@ -90,7 +90,6 @@ function tinhtoan()
         {
             document.getElementById("consochudao").innerHTML = ("22/4").link ("https://thansohoc-haikebu.blogspot.com/2021/01/con-so-chu-ao-so-224.html")
         }
-    //alert(cscdlink)
     }
     else 
     {
@@ -640,6 +639,37 @@ function reset(){
     document.getElementById("ten7").innerHTML = (" ")
     document.getElementById("ten8").innerHTML = (" ")
     document.getElementById("ten9").innerHTML = (" ")
+    document.getElementById("ten11").innerHTML = (" ")
+    document.getElementById("ten22").innerHTML = (" ")
+    document.getElementById("ten33").innerHTML = (" ")
+    document.getElementById("ten44").innerHTML = (" ")
+    document.getElementById("ten55").innerHTML = (" ")
+    document.getElementById("ten66").innerHTML = (" ")
+    document.getElementById("ten77").innerHTML = (" ")
+    document.getElementById("ten88").innerHTML = (" ")
+    document.getElementById("ten99").innerHTML = (" ")
+    document.getElementById("conso1").innerHTML = (" ")
+    document.getElementById("conso2").innerHTML = (" ")
+    document.getElementById("conso3").innerHTML = (" ")
+    document.getElementById("conso4").innerHTML = (" ")
+    document.getElementById("conso5").innerHTML = (" ")
+    document.getElementById("conso6").innerHTML = (" ")
+    document.getElementById("conso7").innerHTML = (" ")
+    document.getElementById("conso8").innerHTML = (" ")
+    document.getElementById("conso9").innerHTML = (" ")
+    document.getElementById("conso11").innerHTML = (" ")
+    document.getElementById("conso22").innerHTML = (" ")
+    document.getElementById("conso33").innerHTML = (" ")
+    document.getElementById("conso44").innerHTML = (" ")
+    document.getElementById("conso55").innerHTML = (" ")
+    document.getElementById("conso66").innerHTML = (" ")
+    document.getElementById("conso77").innerHTML = (" ")
+    document.getElementById("conso88").innerHTML = (" ")
+    document.getElementById("conso99").innerHTML = (" ")
+    document.getElementById("consochudao").innerHTML = (" ")
+    document.getElementById("text").innerHTML = (" ")
+
+
 }
 function xemthem(){
     if (cscd == 5)
