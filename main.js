@@ -668,12 +668,5 @@ function reset(){
     document.getElementById("conso99").innerHTML = (" ")
     document.getElementById("consochudao").innerHTML = (" ")
     document.getElementById("text").innerHTML = (" ")
-
-
-}
-function xemthem(){
-    if (cscd == 5)
-    {
-        cscd = cscd.link ("https://thansohoc-haikebu.blogspot.com/2021/01/con-so-chu-ao-so-5.html")
-    }
+    document.getElementById("bieudo").innerHTML = (" ")
 }
