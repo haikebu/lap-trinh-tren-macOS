@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <style type="text/css">
+    table, th, td{
+        border:1px solid green;
+    }
+    table{
+        border-collapse:collapse;
+    }
+    table.fixed { table-layout:fixed; width:200px; word-break:break-all;}
+</style>
+<h1>ĐẶT TÊN THEO HẦN SỐ HỌC</h1>
+  <form>
+    Ngày sinh <input id="birthday" type="date"/><br/>
+    Giới tính:<br/>
+    <label><input id="gender" value="Nam" type="radio"/> Nam</label> <br/>
+    <label><input id="gender" value="Nữ" type="radio"/> Nữ</label> <br/>
+  </form>
+<button onclick="datten()">Xem kết quả</button>
+<script src=function.js></script>
+</body>
+</html>

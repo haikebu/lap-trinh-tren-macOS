@@ -670,3 +670,15 @@ function reset(){
     document.getElementById("text").innerHTML = (" ")
     document.getElementById("bieudo").innerHTML = (" ")
 }
+function datten(){
+    let birthday = document.getElementById("birthday").value;
+    let y1 = Number(document.getElementById("birthday").value[0]);
+    let y2 = Number(document.getElementById("birthday").value[1]);
+    let y3 = Number(document.getElementById("birthday").value[2]);
+    let y4 = Number(document.getElementById("birthday").value[3]);
+    let m1 = Number(document.getElementById("birthday").value[5]);
+    let m2 = Number(document.getElementById("birthday").value[6]);
+    let d1 = Number(document.getElementById("birthday").value[8]);
+    let d2 = Number(document.getElementById("birthday").value[9]);
+    console.log(birthday)
+}
